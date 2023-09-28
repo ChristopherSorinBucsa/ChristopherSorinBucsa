@@ -15,7 +15,11 @@
   - [Data Structures II, Functions](https://github.com/ChristopherSorinBucsa/DataStructuresIIFunctionsModSim)
   - [Functions, File IO](https://github.com/ChristopherSorinBucsa/FunctionsFileIOModSim)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> ▶ Video Game Development</h2>
+
+ - <b> Writing <b>
+   - [Game Narrative Analysis](https://github.com/ChristopherSorinBucsa/GameNarrativeReview)
+    
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
