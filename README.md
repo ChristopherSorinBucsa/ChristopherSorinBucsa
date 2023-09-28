@@ -10,10 +10,10 @@
 <h2>🌏 Modeling and Simulation</h2>
 
 - <b>Coding Problem Sets (Python)</b>
-  - [Building Blocks](https://www.youtube.com/watch?v=a83ASGn_V_s)
-  - [Control Flow, Data Structures](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-  - [Data Structures II, Functions](https://www.youtube.com/watch?v=N-L9hklSlNk)
-  - [Functions, File IO](https://www.youtube.com/watch?v=OfvdQeh79s0)
+  - [Building Blocks](https://github.com/ChristopherSorinBucsa/BuildingBlocksModSim)
+  - [Control Flow, Data Structures](https://github.com/ChristopherSorinBucsa/ControlFlowDataStructuresModSim)
+  - [Data Structures II, Functions](https://github.com/ChristopherSorinBucsa/DataStructuresIIFunctionsModSim)
+  - [Functions, File IO](https://github.com/ChristopherSorinBucsa/FunctionsFileIOModSim)
 
 <h2> 🤳 Connect with me:</h2>
 
