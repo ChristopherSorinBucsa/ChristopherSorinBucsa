@@ -14,6 +14,7 @@
   - [Control Flow, Data Structures](https://github.com/ChristopherSorinBucsa/ControlFlowDataStructuresModSim)
   - [Data Structures II, Functions](https://github.com/ChristopherSorinBucsa/DataStructuresIIFunctionsModSim)
   - [Functions, File IO](https://github.com/ChristopherSorinBucsa/FunctionsFileIOModSim)
+  - [Arrays, Numpy](https://github.com/ChristopherSorinBucsa/ArraysNumpy)
 
 <h2> ▶ Video Game Development</h2>
 
